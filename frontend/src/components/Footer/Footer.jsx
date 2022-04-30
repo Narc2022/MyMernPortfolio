@@ -9,7 +9,7 @@ const Footer = () => {
 		<div>
 			<Typography variant="h5">About Me</Typography>
             <Typography>Hey, my name is Sachin Singh.
-				I am a Full-Stack Developer and a tutorial on Youtube channel called 
+				I am a Full-Stack Developer and a tutorial on Youtube channel called &nbsp;
 				<b>naRc Tech</b>
 			</Typography>
 
